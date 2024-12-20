@@ -1,10 +1,10 @@
-Half-Adder Implementation in Verilog
+**Half-Adder Implementation in Verilog**
+
 Overview:
 This project demonstrates the implementation of a simple half-adder circuit using Verilog HDL, designed for deployment on an Artix-7 FPGA board. 
 Half-adder Use:
 Performs addition of two single-bit binary numbers, providing a sum and a carry as outputs.
 
-Features
 Inputs:
 A: First single-bit input.
 B: Second single-bit input.
